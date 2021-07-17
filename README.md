@@ -1,7 +1,6 @@
 # DevGordinho-Docker
 Este reposítório foi criado para aplicar aprendizados sobre docker.
 
-
 $$DOCKER FUNDAMENTOS - Tutorial: https://www.youtube.com/watch?v=np_vyd7QlXk&t=189s
 
 Baixar docker para máquina: https://www.docker.com/products/docker-desktop
