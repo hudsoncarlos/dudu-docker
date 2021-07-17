@@ -1,7 +1,7 @@
 using System.Linq;
-using AspNetMvcDocker.Models;
+using AspNetMvcDocker.Dominio.Models;
 
-namespace AspNetMvcDocker.Interface
+namespace AspNetMvcDocker.Dominio.Interface
 {
   public interface IRepository
   {

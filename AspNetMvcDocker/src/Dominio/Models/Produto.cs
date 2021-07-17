@@ -1,4 +1,4 @@
-namespace AspNetMvcDocker.Models
+namespace AspNetMvcDocker.Dominio.Models
 {
   public class Produto
   {

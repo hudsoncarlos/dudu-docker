@@ -1,4 +1,4 @@
-using AspNetMvcDocker.Interface;
+using AspNetMvcDocker.Dominio.Interface;
 using AspNetMvcDocker.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;

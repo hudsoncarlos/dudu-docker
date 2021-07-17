@@ -1,6 +1,6 @@
 using System.Linq;
-using AspNetMvcDocker.Interface;
-using AspNetMvcDocker.Models;
+using AspNetMvcDocker.Dominio.Interface;
+using AspNetMvcDocker.Dominio.Models;
 
 namespace AspNetMvcDocker.Repository
 {
@@ -15,5 +15,7 @@ namespace AspNetMvcDocker.Repository
     };
     public IQueryable<Produto> Produtos
       => Dados.AsQueryable();
+
+
   }
 }
