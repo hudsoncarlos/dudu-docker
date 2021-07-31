@@ -19,7 +19,7 @@ jobs:
         with:
           dotnet-version: 5.0.x
       - name: Restore dependencies
-        run: dotnet restore src/
+        run: dotnet restore AspNetMvcDocker/src/
       - name: Build
         run: dotnet build AspNetMvcDocker/src/
       - name: Teste Unidade
