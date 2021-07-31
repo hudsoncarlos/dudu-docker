@@ -23,4 +23,4 @@ jobs:
       - name: Build
         run: dotnet build AspNetMvcDocker/src/
       - name: Teste Unidade
-        run: dotnet test AspNetMvcDocker/teste/
+        run: dotnet test AspNetMvcDocker/teste/AspNetMvcDocker.Test.csproj
